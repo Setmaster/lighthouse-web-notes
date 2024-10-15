@@ -2,4 +2,4 @@
 
 ### Summary
 
-This repository contains all of the notes taken by Vitor Gomes for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all the notes taken by [Vitor Gomes](https://github.com/Setmaster) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
